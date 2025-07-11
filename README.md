@@ -1,4 +1,4 @@
-This is a project to explore my personal exercise data.
+This is a project to explore my personal running history.
 It started in Jan 2024 and has slowly built up.
 
 
@@ -6,7 +6,7 @@ The contents:
 -------------
 
 Strava:
-- Use the Strava API to get access to my data and then clean it up.
+- Use the Strava API to get access to my running data and then clean it up.
 
 Spotify:
 - Clean up my Spotify listening data from my Extended Listening History.
