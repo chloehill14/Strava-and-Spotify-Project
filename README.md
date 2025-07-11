@@ -3,12 +3,13 @@ It started in Jan 2024 and has slowly built up.
 
 
 The contents:
+-------------
 
 Strava:
--Use the Strava API to get access to my data and then clean it up.
+- Use the Strava API to get access to my data and then clean it up.
 
 Spotify:
--Clean up my Spotify listening data from my Extended Listening History.
+- Clean up my Spotify listening data from my Extended Listening History.
 
 Strava and Spotify:
 - Join the listening data to the Strava activities.
